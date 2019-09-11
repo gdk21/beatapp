@@ -34,6 +34,8 @@ window.addEventListener('load', function(){
     });
   }
 
+  document.querySelector("h1").textContent("LELELEL");
+
   console.log('lololol')
 
 
