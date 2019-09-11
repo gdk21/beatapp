@@ -8,7 +8,8 @@ window.addEventListener('load', function(){
     "#c060d3",
     "#d3d160",
     "#6860d3",
-    "#60b2d3"
+    "#60b2d3",
+    "#FFFFFF"
   ];
 
 
