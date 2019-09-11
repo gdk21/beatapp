@@ -33,4 +33,6 @@ window.addEventListener('load', function(){
       visual.removeChild(this);
     });
   }
+
+  console.log('lel')
 });
