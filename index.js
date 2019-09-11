@@ -34,5 +34,7 @@ window.addEventListener('load', function(){
     });
   }
 
+  console.log('lololol')
+
   console.log('lelelele');
 });
